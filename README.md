@@ -6,7 +6,8 @@ Windows 64 位 DBO 光环制作与预览工具，支持简体中文与 English�
 
 ## 开始使用
 
-1. 在 Releases 下载 `光环工坊_0.3.0.zip`，完整解压。
+1. 在 Releases 点击“光环工坊_0.3.0.zip”，下载后完整解压。
+   GitHub 下载文件名为 `DBO-Aura_0.3.0_Windows_x64.zip`，解压后的文件夹为 `光环工坊_0.3.0`。
 2. 双击 `光环工坊 作者：Spike.exe`，保留同目录 `_internal` 文件夹。
 3. 在“语言 / Language”选择简体中文或 English，选择会在重启后保留。
 4. 从“创建向导”开始，保存 `.aura` 工程，再导出游戏资源 ZIP。

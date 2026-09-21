@@ -1,2 +1,2 @@
-6d2a58a5a2a2b37477e851c24e4be6400c9401c8f836f6fecbde7895bd67205a  光环工坊_0.3.0.zip
-ec86e4bfa75642193bb53c9ea2ff6df88c098382ac70c9afaba5dba57b57340d  光环工坊_0.3.0_使用说明.pdf
+6d2a58a5a2a2b37477e851c24e4be6400c9401c8f836f6fecbde7895bd67205a  DBO-Aura_0.3.0_Windows_x64.zip
+ec86e4bfa75642193bb53c9ea2ff6df88c098382ac70c9afaba5dba57b57340d  DBO-Aura_0.3.0_User_Guide_zh-CN.pdf
