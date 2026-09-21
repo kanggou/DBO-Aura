@@ -1,2 +1,2 @@
-023b503cba5723f1298621200bee1dfa8f0d0d37e31f03db7441f854dde608dd  DBO-Aura_0.3.1_Windows_x64.zip
+42b2c49f1b16b09f780d1b3d9f7ba9e4d2857543d06462f82f1ccf13c9894b99  DBO-Aura_0.3.2_Windows_x64.zip
 ec86e4bfa75642193bb53c9ea2ff6df88c098382ac70c9afaba5dba57b57340d  DBO-Aura_User_Guide_zh-CN.pdf
