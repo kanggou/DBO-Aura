@@ -1,0 +1,13 @@
+*
+!.gitignore
+!README.md
+!LICENSE
+!CHANGELOG.md
+!第三方许可.txt
+!校验值.txt
+!docs/
+!docs/使用说明.md
+!预览/
+!预览/中文主界面.png
+!预览/中文创建向导.png
+!预览/中文安装与测试.png

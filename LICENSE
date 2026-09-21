@@ -1,0 +1,55 @@
+DBO-Aura Proprietary Software License
+Version 1.0 - 2026-09-21
+
+Copyright (c) 2026 Spike. All rights reserved.
+
+1. Permission to use
+Spike grants you a non-exclusive, worldwide, royalty-free license to download,
+install and run the official, unmodified DBO-Aura / Aura Workshop binary release
+for personal or commercial use, and to make backup copies for your own use.
+You may read, print and retain the accompanying documentation for this use.
+
+2. Reserved rights
+The application is proprietary software. This license does not grant access to
+its source code, a right to publish its source, or a right to modify, sell,
+sublicense, repackage or redistribute the application or its documentation.
+These activities require separate permission from Spike. You may share links to
+the official repository and release downloads. Preserve copyright and license
+notices in your copies. No trademark rights are granted.
+
+3. Reverse engineering and third-party exceptions
+Do not reverse engineer, decompile or disassemble the proprietary application,
+except to the extent permitted by applicable law or by a third-party license.
+Third-party software and assets are governed by their own licenses and rights;
+this license does not restrict or replace those terms. In particular, nothing
+here restricts rights under the LGPL to modify or replace LGPL libraries or to
+reverse engineer the combined work for debugging modifications to those libraries.
+See the accompanying third-party notices for license texts and upstream sources.
+
+4. User-created projects and third-party assets
+This license does not claim ownership of your original projects or exported
+content. Third-party assets retain their existing ownership and restrictions.
+Game character models, textures, animations, names and trademarks are not owned
+by Spike and are not relicensed by this agreement. This project is not an
+official Dragon Ball Online product and does not imply endorsement.
+
+5. Warranty and liability
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. TO THE EXTENT PERMITTED
+BY APPLICABLE LAW, SPIKE SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE SOFTWARE OR ITS USE. Nothing in this agreement
+excludes rights or liability that applicable law does not allow to be excluded.
+
+6. Termination and other permissions
+Your permission under this license ends if you materially breach its terms.
+Third-party license rights remain governed by their own terms. Permission for
+uses not granted here may be requested from the author through the official
+repository. No maintenance, future updates or game compatibility is promised.
+
+中文摘要（以英文条款为准）
+软件著作权归 Spike，采用专有软件许可，不采用 MIT 或 GPL。
+允许免费下载安装、个人或商业使用及自行备份；源码不公开。
+修改、销售、再授权、重新打包或再分发软件及说明文档需要作者另行许可。
+可以分享官方仓库及下载链接。第三方库、游戏素材及法律规定的权利不受上述限制。
+用户原创工程的权利归其权利人；软件按现状提供，不保证与所有游戏客户端兼容。
